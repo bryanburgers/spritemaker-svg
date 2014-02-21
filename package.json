@@ -18,8 +18,8 @@
     "type": "git",
     "url": "git@github.com:bryanburgers/spritemaker-svg.git"
   },
-  "homepage": "https://github.com/bryanburgers/spritemaker-svg.git",
-  "bugs": "https://github.com/bryanburgers/spritemaker-svg.git/issues",
+  "homepage": "https://github.com/bryanburgers/spritemaker-svg",
+  "bugs": "https://github.com/bryanburgers/spritemaker-svg/issues",
   "dependencies": {
     "async": "~0.2.10",
     "bin-pack": "~1.0.0",
