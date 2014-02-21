@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:spritemaker="tag:burgers.io,2014:spritemaker" width="20" height="10">
+<svg width="10" height="10" x="0" y="0" spritemaker:name="rect-10-blue">
+  <rect x="0" y="0" width="10" height="10" fill="blue"/>
+</svg>
+<svg width="10" height="10" x="10" y="0" spritemaker:name="rect-10-red">
+  <rect x="0" y="0" width="10" height="10" fill="red"/>
+</svg>
+</svg>

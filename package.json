@@ -1,0 +1,36 @@
+{
+  "name": "spritemaker-svg",
+  "version": "0.1.0",
+  "description": "Create an SVG sprite map from SVG sprites",
+  "author": {
+    "name": "Bryan Burgers",
+    "email": "bryan@burgers.io",
+    "url": "http://burgers.io"
+  },
+  "main": "index.js",
+  "keywords": [
+    "svg",
+    "sprite",
+    "sprites"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bryanburgers/spritemaker-svg.git"
+  },
+  "homepage": "https://github.com/bryanburgers/spritemaker-svg.git",
+  "bugs": "https://github.com/bryanburgers/spritemaker-svg.git/issues",
+  "dependencies": {
+    "async": "~0.2.10",
+    "bin-pack": "~1.0.0",
+    "xml2js": "~0.4.1"
+  },
+  "devDependencies": {
+    "memorystream": "~0.2.0",
+    "mocha": "~1.12.1",
+    "should": "~3.1.2"
+  },
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha -- --ignore-leaks test"
+  }
+}
