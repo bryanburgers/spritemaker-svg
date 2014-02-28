@@ -1,6 +1,6 @@
 {
   "name": "spritemaker-svg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Create an SVG sprite map from SVG sprites",
   "author": {
     "name": "Bryan Burgers",
