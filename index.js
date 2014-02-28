@@ -84,7 +84,7 @@ SpritemakerStream.prototype.sprite = function(sprites, options) {
 
 		self.emit('packed', result);
 
-		self.write('<svg xmlns="http://www.w3.org/2000/svg" xmlns:spritemaker="tag:burgers.io,2014:spritemaker" width="' + result.width + '" height="' + result.height + '">\n');
+		self.write('<?xml version="1.0"?>\n<svg xmlns="http://www.w3.org/2000/svg" xmlns:spritemaker="tag:burgers.io,2014:spritemaker" width="' + result.width + '" height="' + result.height + '">\n');
 
 		results.forEach(function(result) {
 			self._output(result);
